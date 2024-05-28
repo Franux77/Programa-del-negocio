@@ -26,3 +26,11 @@ head, header, main {
 nav{
     padding: 30px 20px 40px 50px;
 }
+a{
+    margin: 50px;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
