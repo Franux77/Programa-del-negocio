@@ -1,0 +1,28 @@
+p {
+    Color: red
+    
+}
+main {
+    background-color: rgb(131, 125, 130);
+}
+header {
+    background-color: aquamarine;
+}
+footer {
+    background-color: aqua;
+}
+a{
+    background-color: rgb(255, 238, 0);
+}
+head, header, main {
+    text-align: center;
+}
+.seccion1 {
+    background-color: darkred;
+}
+#nuevo{
+    background-color: rgb(86, 86, 105);
+}
+nav{
+    padding: 30px 20px 40px 50px;
+}
